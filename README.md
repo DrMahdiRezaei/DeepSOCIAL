@@ -12,7 +12,7 @@ Mahdi Rezaei, Mohsen Azarmi
 **Code Execution**:
 The code can be executed ing Google colab by follwoing the guidline below:
 1. Copy files OxfordTownCentreDataset.avi & sory.py in the root of your Google driver
-2. Open and run the file YOLOv4_DeepSOCIAL.ipynb or YOLOv4_DeepSOCIAL.py in Google colab
+2. Open and run the file YOLOv4_DeepSOCIAL.ipynb in Google colab
 3. At the middle of running the code, in section "Mounting Google Drive", click on the given link and grant access to month your google driver and paste the generated code in the given space.
 4. The program continues and at the end three output files will be created in the darknet forlder of your googleas follows:
 
