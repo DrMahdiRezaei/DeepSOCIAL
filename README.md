@@ -13,7 +13,7 @@ The code can be executed in Google colab by followoing the guideline below:
 1. Copy or Download the following files and paste them in the **darknet** folder of your Google Colab (\contenct\darknet\...)
      
    * Oxford Town Dataset (OxfordTownCentreDataset.avi): https://drive.google.com/file/d/1UMIcffhxGw1aCAyztNWlslHHtayw9Fys/view
-   * Improved weights for DeepSOCIAL (DeepSocial.weights): https://drive.google.com/file/d/1t5OgqRn-s6TFZp1X3L5g4zMfaK0OqcEt/view
+   * Optimised DeepSOCIAL weights (DeepSocial.weights): https://drive.google.com/file/d/1t5OgqRn-s6TFZp1X3L5g4zMfaK0OqcEt/view
    * Sort.py
    * DeepSocial.pyc
  
