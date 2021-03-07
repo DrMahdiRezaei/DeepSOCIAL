@@ -17,10 +17,10 @@ The code can be executed in Google Colab by following the guideline below:
 3. Run the Cloning cell only. A *darkenet* folder will be generated under the *content* folder (i.e. \content\darknet\...)
 5. Download the following files and paste them in the **darknet** folder of your Google Colab 
      
-   * Oxford Town Dataset: https://drive.google.com/file/d/1UMIcffhxGw1aCAyztNWlslHHtayw9Fys/view
-   * Optimised DeepSOCIAL weights: https://drive.google.com/file/d/1t5OgqRn-s6TFZp1X3L5g4zMfaK0OqcEt/view
-   * DeepSocial.pyc: https://drive.google.com/file/d/1l8ffoJ_XsUGluhAI5ViMaK7lAolkX8un/view
-   * Sort.py: https://drive.google.com/file/d/1Cfz1ELlAi9iprM4-nKLrG9v1H_VzX5XW/view
+   - Oxford Town Dataset: https://drive.google.com/file/d/1UMIcffhxGw1aCAyztNWlslHHtayw9Fys/view
+   - Optimised DeepSOCIAL weights: https://drive.google.com/file/d/1t5OgqRn-s6TFZp1X3L5g4zMfaK0OqcEt/view
+   - DeepSocial.pyc: https://drive.google.com/file/d/1l8ffoJ_XsUGluhAI5ViMaK7lAolkX8un/view
+   - Sort.py: https://drive.google.com/file/d/1Cfz1ELlAi9iprM4-nKLrG9v1H_VzX5XW/view
    
  
 6. Press Ctrl+F10 or "Run after" under the Runtime menu. The program should continue running and finishes by generating three processed 3 video output files in the **darknet** folder as follows:
@@ -43,7 +43,6 @@ In this method you can keep those large files in your own google driver; so, you
 4. Click on "Run all" under the Runtime menu or use the Ctrl+F9 shortcut.
 5. At the begining of the execution the code requires to access the required files by mounting your Google Drive. Click on the provided link, copy the generated code by Google, and paste it in the next line within the given box. This way the above four required files will be directly accessed via your Google drive.
 6. The program would keep running and ends by generating 3 output video files in **darknet** folder, as follows:
-7. 
     * /content/darknet/DeepSOCIAL DTC.avi
     * /content/darknet/DeepSOCIAL Social Distancing.avi
     * /content/darknet/DeepSOCIAL Crowd Map.avi
