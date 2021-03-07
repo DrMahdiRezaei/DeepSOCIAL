@@ -9,7 +9,7 @@
 
 ## Guideline to Run the Code:
 ____________________________________
-**Option 1: Online Execution on Colab**
+### Option 1: Online Execution on Colab
 
 The code can be executed in Google Colab by following the guideline below:
 1. Click on the YOLO4_DeepSOCIAL-1.ipynb and open it in Colab via the given link
@@ -29,7 +29,7 @@ The code can be executed in Google Colab by following the guideline below:
     * /content/darknet/DeepSOCIAL Crowd Map.avi
     
 ____________________________________
-**Option 2: Shared Google Drive and Colab Execution**
+### Option 2: Shared Google Drive and Colab Execution
 
 In this method you can keep those large files in your own google driver; so, you would not need to upload them for every new session in your Google Colab darknet folder. 
 1. Make a folder named **DeepSOCIAL** in the root of your Google Drive.
