@@ -5,7 +5,7 @@
 
 **Open access paper:** https://www.mdpi.com/2076-3417/10/21/7514    &    https://doi.org/10.3390/app10217514
 
-<img src = "Images/SocialD-Violations.jpg" width=500> <img src = "Images/Crowd.gif" width=500>
+<img src = "Images/SocialD-Violations.jpg" width=400> <img src = "Images/Crowd.gif" width=400>
 
 ## How to Run the Code:
 ____________________________________
@@ -24,6 +24,7 @@ The code can be executed in Google colab by followoing the guideline below:
     * ../darknet/DeepSOCIAL DTC.avi
     * ../darknet/DeepSOCIAL Social Distancing.avi
     * ../darknet/DeepSOCIAL Crowd Map.avi
+    
 
 ____________________________________
 **Option 2: Joing Google Driver and Colab Execution**
