@@ -10,11 +10,15 @@
 **How to run the code?**:
 
 The code can be executed in Google colab by followoing the guideline below:
-1. Copy files OxfordTownCentreDataset.avi & sory.py in the root of your Google drive
-2. Open and run the file YOLOv4_DeepSOCIAL.ipynb in Google colab
-3. At the middle of running the code, in section "Mounting Google Drive", click on the given link and grant access to month your google drive.
-4. Paste the generated code by Google in the given section
-5. The program continues and at the end of the execution, three output files will be created in the **darknet** forlder of your google colab as follows:
+1. Copy the following files in the root of your Google Drive:
+   * OxfordTownCentreDataset.avi 
+   * DeepSocial.pyc
+   * Sort.py
+   
+3. Open and run the file YOLOv4_DeepSOCIAL.ipynb in Google colab
+4. At the middle of running the code, in section "Mounting Google Drive", click on the given link and grant access to month your google drive.
+5. Paste the generated code by Google in the given section
+6. The program continues and at the end of the execution, three output files will be created in the **darknet** forlder of your google colab as follows:
     * ../darknet/DeepSOCIAL DTC.avi
     * ../darknet/DeepSOCIAL Social Distancing.avi
     * ../darknet/DeepSOCIAL Crowd Map.avi
