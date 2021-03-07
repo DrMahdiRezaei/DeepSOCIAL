@@ -9,7 +9,8 @@
 
 ## How to Run the Code:
 ____________________________________
-**OPTION 1: Live Execution on Colab**
+**Option 1: Live Execution on Colab**
+
 The code can be executed in Google colab by followoing the guideline below:
 1. Copy or Download the following files and paste them in the **darknet** folder of your Google Colab (\content\darknet\...)
      
@@ -27,7 +28,6 @@ The code can be executed in Google colab by followoing the guideline below:
 ____________________________________
 **Option 2: Joing Google Driver and Colab Execution**
 
-
 In this method you can keep large falies in your google driver so, you would noy need to upload them in the google colab in every run. 
 1. Copy or Download the following files in the root of your Google Drive:
    * Oxford Town Dataset (OxfordTownCentreDataset.avi): https://drive.google.com/file/d/1UMIcffhxGw1aCAyztNWlslHHtayw9Fys/view
@@ -42,5 +42,3 @@ In this method you can keep large falies in your google driver so, you would noy
     * ../darknet/DeepSOCIAL DTC.avi
     * ../darknet/DeepSOCIAL Social Distancing.avi
     * ../darknet/DeepSOCIAL Crowd Map.avi
-
-
