@@ -6,7 +6,7 @@
 **Open access to the DeepSOCIAL paper:**
 https://www.mdpi.com/2076-3417/10/21/7514 or https://doi.org/10.3390/app10217514
 
-<img src = "Images/SocialD-Violations.jpg" width=700>
+<img src = "Images/SocialD-Violations.jpg" width=640>
 
 **How to run the code?**:
 The code can be executed in Google colab by follwoing the guidline below:
@@ -19,5 +19,5 @@ The code can be executed in Google colab by follwoing the guidline below:
     * ../darknet/DeepSOCIAL Social Distancing.avi
     * ../darknet/DeepSOCIAL Crowd Map.avi
 
-<img src = "Images/Crowd.gif">
+<img src = "Images/Crowd.gif" width=640>
 
