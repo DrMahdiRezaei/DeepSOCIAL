@@ -12,20 +12,21 @@ ____________________________________
 **Option 1: Online Execution on Colab**
 
 The code can be executed in Google colab by followoing the guideline below:
-1. Copy or Download the following files and paste them in the **darknet** folder of your Google Colab (\content\darknet\...)
+1. Click on the YOLO4_DeepSOCIAL-1.ipynb and open it in colab via the given link
+2. Follow Steps i, ii, and iii to setup the GPU accelator 
+3. Run the Clone cell 
+5. Download the following files and paste them in the **darknet** folder of your Google Colab (\content\darknet\...)
      
    * Oxford Town Dataset (OxfordTownCentreDataset.avi): https://drive.google.com/file/d/1UMIcffhxGw1aCAyztNWlslHHtayw9Fys/view
    * Optimised DeepSOCIAL weights (DeepSocial.weights): https://drive.google.com/file/d/1t5OgqRn-s6TFZp1X3L5g4zMfaK0OqcEt/view
    * Sort.py
    * DeepSocial.pyc
  
-3. Open and run the file YOLO4_DeepSOCIAL-1.ipynb in Google colab
-4. The program should continue running and finish the execution by genering three output files in **darknet** folder as follows:
+6. Press Ctrl+F10 or "Run after" from the Runtime meny. The program should continue running and finishes by genering three processed video output files in the **darknet** folder as follows:
     * /content/darknet/DeepSOCIAL DTC.avi
     * /content/darknet/DeepSOCIAL Social Distancing.avi
     * /content/darknet/DeepSOCIAL Crowd Map.avi
     
-
 ____________________________________
 **Option 2: Joing Google Driver and Colab Execution**
 
