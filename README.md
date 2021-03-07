@@ -7,7 +7,7 @@
 
 <img src = "Images/SocialD-Violations.jpg" width=410> <img src = "Images/Crowd.gif" width=410>
 
-## How to Run the Code:
+## Guideline to Run the Code:
 ____________________________________
 **Option 1: Live Execution on Colab**
 
