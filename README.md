@@ -6,7 +6,7 @@
 **Open access to the DeepSOCIAL paper:**
 https://www.mdpi.com/2076-3417/10/21/7514 or https://doi.org/10.3390/app10217514
 
-![](images/SocialDViolations.jpg
+![](images/SocialD-Violations.png
 
 
 **How to run the code?**:
