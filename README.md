@@ -7,11 +7,9 @@
 
 <img src = "Images/SocialD-Violations.jpg" width=500> <img src = "Images/Crowd.gif" width=500>
 
-**HOW TO RUN THE CODE?**:
+## How to Run the Code:
 ____________________________________
-**Option 1:** Live Execution on Colab
-____________________________________
-
+**OPTION 1: Live Execution on Colab**
 The code can be executed in Google colab by followoing the guideline below:
 1. Copy or Download the following files and paste them in the **darknet** folder of your Google Colab (\content\darknet\...)
      
@@ -27,8 +25,8 @@ The code can be executed in Google colab by followoing the guideline below:
     * ../darknet/DeepSOCIAL Crowd Map.avi
 
 ____________________________________
-**Option 2:** Joing Google Driver and Colab Execution
-____________________________________
+**Option 2: Joing Google Driver and Colab Execution**
+
 
 In this method you can keep large falies in your google driver so, you would noy need to upload them in the google colab in every run. 
 1. Copy or Download the following files in the root of your Google Drive:
