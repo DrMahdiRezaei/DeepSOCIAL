@@ -14,7 +14,7 @@ ____________________________________
 The code can be executed in Google Colab by following the guideline below:
 1. Click on the YOLO4_DeepSOCIAL-1.ipynb and open it in Colab via the given link
 2. Follow Steps i, ii, and iii to setup the GPU accelerator 
-3. Run the Clone cell only. A *darkenet* folder will be generated under the content folder.
+3. Run the Cloning cell only. A *darkenet* folder will be generated under the content folder.
 5. Download the following files and paste them in the **darknet** folder of your Google Colab (\content\darknet\...)
      
    * Oxford Town Dataset (OxfordTownCentreDataset.avi): https://drive.google.com/file/d/1UMIcffhxGw1aCAyztNWlslHHtayw9Fys/view
