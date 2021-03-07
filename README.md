@@ -12,8 +12,12 @@
 The code can be executed in Google colab by followoing the guideline below:
 1. Copy the following files in the root of your Google Drive:
    * OxfordTownCentreDataset.avi 
-   * DeepSocial.pyc
    * Sort.py
+   * Full Oxford Dataset https://drive.google.com/file/d/1NFGZ5uyGVQ8uex_UUhLK6mlDTr0bx9Jt/view
+   * Improved weights for DeepSOCIAL:  https://drive.google.com/file/d/15mIMe-X48O9OJCohgl-22SBnKoTKAxNP/view
+
+2. Copy the follwin file in the **darnet** folder:
+   * DeepSocial.pyc
    
 3. Open and run the file YOLOv4_DeepSOCIAL.ipynb in Google colab
 4. At the middle of running the code, in section "Mounting Google Drive", click on the given link and grant access to month your google drive.
