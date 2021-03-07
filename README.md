@@ -8,8 +8,9 @@
 <img src = "Images/SocialD-Violations.jpg" width=640>
 
 **How to run the code?**:
-The code can be executed in Google colab by follwoing the guidline below:
-1. Copy files OxfordTownCentreDataset.avi & sory.py in the root of your Google driver
+
+The code can be executed in Google colab by followoing the guideline below:
+1. Copy files OxfordTownCentreDataset.avi & sory.py in the root of your Google drive
 2. Open and run the file YOLOv4_DeepSOCIAL.ipynb in Google colab
 3. At the middle of running the code, in section "Mounting Google Drive", click on the given link and grant access to month your google drive.
 4. Paste the generated code by Google in the given section
