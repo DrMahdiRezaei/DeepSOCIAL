@@ -19,7 +19,4 @@ The code can be executed in Google colab by follwoing the guidline below:
     * ../darknet/DeepSOCIAL Social Distancing.avi
     * ../darknet/DeepSOCIAL Crowd Map.avi
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FwCP2ySDshE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    
+https://www.youtube.com/watch?v=FwCP2ySDshE    
