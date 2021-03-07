@@ -6,6 +6,7 @@
 **Open access paper:** https://www.mdpi.com/2076-3417/10/21/7514    &    https://doi.org/10.3390/app10217514
 
 <img src = "Images/SocialD-Violations.jpg" width=410> <img src = "Images/Crowd.gif" width=410>
+./gifsicle -bl Images/Crowd.gif
 
 ## Guideline to Run the Code:
 ____________________________________
