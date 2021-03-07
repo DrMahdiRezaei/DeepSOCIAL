@@ -9,7 +9,7 @@
 
 ## Guideline to Run the Code:
 ____________________________________
-**Option 1: Live Execution on Colab**
+**Option 1: Online Execution on Colab**
 
 The code can be executed in Google colab by followoing the guideline below:
 1. Copy or Download the following files and paste them in the **darknet** folder of your Google Colab (\content\darknet\...)
