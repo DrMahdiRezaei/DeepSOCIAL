@@ -1,5 +1,5 @@
 # DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic
-**REFERENCE:**
+**REFERENCE:** https://colab.research.google.com/github/DrMahdiRezaei/DeepSOCIAL/blob/master/YOLOv4_DeepSOCIAL-1.ipynb
 
 **Mahdi Rezaei, Mohsen Azarmi. [2020] DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic, Applied Sciences, MDPI, 10(21), 7514.** 
 
