@@ -46,3 +46,10 @@ In this method you can keep those large files in your own google driver; so, you
     * /content/darknet/DeepSOCIAL DTC.avi
     * /content/darknet/DeepSOCIAL Social Distancing.avi
     * /content/darknet/DeepSOCIAL Crowd Map.avi
+
+
+____________________________________
+### Calibration Details:
+
+If you need more information about the calibration procedure please visit the following link
+https://github.com/azarmi/Birds-Eye-View-Calibration
